@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Chaser.Common\Chaser.Common.csproj" />
+    <ProjectReference Include="..\Chaser.FollowerEnemy\Chaser.FollowerEnemy.csproj" />
+    <ProjectReference Include="..\Chaser.RandomEnemy\Chaser.RandomEnemy.csproj" />
+    <ProjectReference Include="..\Chaser.UserPlayer\Chaser.UserPlayer.csproj" />
+  </ItemGroup>
+
+</Project>

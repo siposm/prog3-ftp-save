@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture_People", "Lecture_People\Lecture_People.csproj", "{329DE772-2EC5-425D-AE12-4E5AF8D4B786}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice_Westeros", "Practice_Westeros\Practice_Westeros.csproj", "{04C17DDA-625C-4F4A-9684-5DC0D176C35E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{329DE772-2EC5-425D-AE12-4E5AF8D4B786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329DE772-2EC5-425D-AE12-4E5AF8D4B786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329DE772-2EC5-425D-AE12-4E5AF8D4B786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329DE772-2EC5-425D-AE12-4E5AF8D4B786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04C17DDA-625C-4F4A-9684-5DC0D176C35E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C17DDA-625C-4F4A-9684-5DC0D176C35E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C17DDA-625C-4F4A-9684-5DC0D176C35E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C17DDA-625C-4F4A-9684-5DC0D176C35E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84516281-DEA0-4A26-B0F9-9807B6EC8AF2}
+	EndGlobalSection
+EndGlobal
